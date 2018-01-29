@@ -1,0 +1,152 @@
+{
+  "project_info": {
+    "project_number": "610692170846",
+    "firebase_url": "https://school-253c3.firebaseio.com",
+    "project_id": "school-253c3",
+    "storage_bucket": "school-253c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610692170846:android:20da87a0376d7216",
+        "android_client_info": {
+          "package_name": "com.example.mm.school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610692170846-eqh5a1g8pmjqr6ak3p62ju9id2omog0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mm.school",
+            "certificate_hash": "fd09868c76abdb875046fea41f92e4de491ea681"
+          }
+        },
+        {
+          "client_id": "610692170846-512edmt8fn02njbdivfl4gbbkvsqql38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfxjfVryNjlFjiRNUX-2Qg4e7iAXfs6iU"
+        },
+        {
+          "current_key": "AIzaSyDdtUwDerq5YkRwVjk-FM0Igrj6v44QVtY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610692170846-512edmt8fn02njbdivfl4gbbkvsqql38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610692170846:android:7f4bcfd0ae069c5b",
+        "android_client_info": {
+          "package_name": "com.example.mm.smartschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610692170846-4ppaadj487v9vstiiear36ju9tl21ur8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mm.smartschool",
+            "certificate_hash": "fd09868c76abdb875046fea41f92e4de491ea681"
+          }
+        },
+        {
+          "client_id": "610692170846-512edmt8fn02njbdivfl4gbbkvsqql38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfxjfVryNjlFjiRNUX-2Qg4e7iAXfs6iU"
+        },
+        {
+          "current_key": "AIzaSyDdtUwDerq5YkRwVjk-FM0Igrj6v44QVtY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610692170846-512edmt8fn02njbdivfl4gbbkvsqql38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610692170846:android:bf4e00730ca797d9",
+        "android_client_info": {
+          "package_name": "com.example.mm.smartschools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610692170846-1t8vrqi3slfv43glhmi985g40mflqobo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mm.smartschools",
+            "certificate_hash": "fd09868c76abdb875046fea41f92e4de491ea681"
+          }
+        },
+        {
+          "client_id": "610692170846-512edmt8fn02njbdivfl4gbbkvsqql38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfxjfVryNjlFjiRNUX-2Qg4e7iAXfs6iU"
+        },
+        {
+          "current_key": "AIzaSyDdtUwDerq5YkRwVjk-FM0Igrj6v44QVtY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610692170846-512edmt8fn02njbdivfl4gbbkvsqql38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
